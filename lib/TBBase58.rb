@@ -48,8 +48,3 @@ class TBBase58
   end
 
 end
-
-
-
-#tb = TBBase58.new("00010966776006953D5567439E5E39F86A0D273BEED61967F6".to_i(16))
-#tb.encode()
